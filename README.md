@@ -5,4 +5,9 @@
  <li> You should have basic  understanding to (amuller's world-cloud module ) make sure to give a look (https://github.com/amueller/word_cloud.git)
 
  <h3> You can create classical wordclouds using the default parameters of the word cloud object and the results will be something like this </h3>
-![masking](https://user-images.githubusercontent.com/62334815/92412851-c77f3580-f14d-11ea-88ba-b5acaa50f75a.JPG)
+
+
+
+
+
+![masking](https://user-images.githubusercontent.com/62334815/92413216-5b053600-f14f-11ea-98f8-24732e3c44e9.JPG)
